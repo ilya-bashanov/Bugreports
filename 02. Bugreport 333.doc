@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 7.4.2.3 (Windows)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2023-04-09T18:26:08.286000000"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 1cm; margin-top: 1cm; margin-bottom: 1cm }
+		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent; background: transparent }
+		h3 { margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; background: transparent; page-break-after: avoid }
+		h3.western { font-family: "Times New Roman", serif; font-size: 14pt; font-weight: bold }
+		h3.cjk { font-family: "NSimSun"; font-size: 14pt; font-weight: bold }
+		h3.ctl { font-family: "Lucida Sans"; font-size: 14pt; font-weight: bold }
+		td p { orphans: 0; widows: 0; background: transparent; background: transparent }
+		a:link { color: #000080; so-language: zxx; text-decoration: underline }
+		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
+	</style>
+</head>
+<body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr">
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff; page-break-before: always">
+	<tr>
+		<td colspan="2" width="100%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><h3 class="western">
+			[333]&nbsp;Нет анимации для отчетов в
+			очереди загрузки Created: 22/01/2023 &nbsp;Updated:
+			07/02/2023 &nbsp;Resolved: 03/02/2023 
+			</h3>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" style="border: none; padding: 0cm"><p><b>Status:</b></p>
+		</td>
+		<td width="80%" style="border: none; padding: 0cm"><p>Done</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" style="border: none; padding: 0cm"><p><b>Project:</b></p>
+		</td>
+		<td width="80%" style="border: none; padding: 0cm"><p><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm"><p><b>Component/s:</b></p>
+		</td>
+		<td style="border: none; padding: 0cm"><p><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm"><p><b>Fix Version/s:</b></p>
+		</td>
+		<td style="border: none; padding: 0cm"><p><br/>
+
+			</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff">
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Type:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Bug 
+			</p>
+		</td>
+		<td bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Priority:</b> 
+			</p>
+		</td>
+		<td valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Critical 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Reporter:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Башанов Илья 
+			</p>
+		</td>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Assignee:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Башанов Илья 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Resolution:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Fixed 
+			</p>
+		</td>
+		<td colspan="2" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			&nbsp;</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Remaining Estimate:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Not Specified 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Time Spent:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Not Specified 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Original Estimate:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			Not Specified 
+			</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff">
+	<tr valign="top">
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+			<b>Attachments:</b> 
+			</p>
+		</td>
+		<td bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p>
+			<img src="https://jira.lanit.ru/images/icons/attach/image.gif" name="Изображение1" alt="PNG File" align="bottom" width="16" height="16" border="0"/>
+
+			Скриншот 22.03.23_11.01.01.png &nbsp;&nbsp;&nbsp; 
+			<img src="https://jira.lanit.ru/images/icons/attach/image.gif" name="Изображение2" alt="PNG File" align="bottom" width="16" height="16" border="0"/>
+
+			Скриншот 22.03.23_11.08.24.png &nbsp;&nbsp;&nbsp; 
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Issue Links:</b> 
+			</p>
+			<table width="100%" cellpadding="0" cellspacing="0">
+				<tr>
+					<td colspan="4" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p>
+						<b>Дефект</b></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="border: none; padding: 0cm"><p>является
+						дефектом 
+						</p>
+					</td>
+					<td style="border: none; padding: 0cm"><p><strike>357</strike> 
+						</p>
+					</td>
+					<td style="border: none; padding: 0cm"><p>Табель Report</p>
+					</td>
+					<td style="border: none; padding: 0cm"><p>Done 
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p style="margin-bottom: 0.5cm"><br/>
+<br/>
+
+			</p>
+		</td>
+		<td bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"></td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Sprint:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p lang="en-US" style="margin-bottom: 0.5cm">
+			66</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Предусловие:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			Версия front: g332931a4<br/>
+Версия back:
+			g8820eef9<br/>
+<span lang="ru-RU">стенд-1</span>, девелоп</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Шаги воспроизведения:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			1. Сформировать несколько отчетов за
+			большой период (например, полгода)<br/>
+2.
+			Перейти в &quot;Загрузки&quot;, проверить
+			отображение</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Фактический результат:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			Для отчетов, находящихся в очереди на
+			скачивание, не отображается анимация
+			о формировании<br/>
+<br/>
+<br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			<b>Ожидаемый результат:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff; border: none; padding: 0cm"><p style="margin-bottom: 0.5cm">
+			Для отчетов, находящихся в очереди на
+			скачивание, отображается анимация</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+</body>
+</html>
